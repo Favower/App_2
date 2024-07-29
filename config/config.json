@@ -1,0 +1,5 @@
+{
+  "PostgresURL": "postgres://myuser:mypassword@postgres:5432/mydb",
+  "KafkaBroker": "kafka:9092",
+  "KafkaTopic": "your_topic"
+}
